@@ -5,6 +5,6 @@
 - 📫 Reach me at caiqing515@gmail.com
 
 <!---
-cai5080/cai5080 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+quinn.cai/quinn.cai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
